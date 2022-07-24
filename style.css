@@ -17,3 +17,19 @@ body{
 .div_volume{
     float: right;
 }
+.disk_speed{
+    border-radius:100px ;
+    width: 200px;
+}
+.disk_volume{
+    border-radius: 100px;
+    width: 200px;
+}
+button{
+    margin-top: 15px;
+    width:120px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
