@@ -23,7 +23,7 @@ song.play();
 song.setVolume(1);
 song.rate(1);
 }
-function modeloaded(){
+function modelloaded(){
     console.log("posenet is intialised");
 }
 function gotposes(results){
